@@ -4,4 +4,4 @@
 - 📫 You can connect with me on LinkedIn: https://www.linkedin.com/in/mansoorbaloutch/ or follow me on Twitter  https://twitter.com/mansoordotb
 
 Skills 
-- Excel, SQL, Tableau, R
+- Excel, SQL, Tableau

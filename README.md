@@ -4,4 +4,4 @@
 - 📫 You can connect with me on LinkedIn: https://www.linkedin.com/in/mansoorbaloutch/
 
 Skills 
-- Excel, SQL, Tableau
+- Excel, SQL, Tableau, Alteryx
